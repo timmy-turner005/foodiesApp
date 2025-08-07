@@ -3,7 +3,7 @@ import Image from "next/image";
 
 import MainHeaderBackground from "./main-header-background";
 import logoImg from "@/assets/logo.png";
-import classes from "./main-header-background.module.css";
+import classes from "./main-header.module.css";
 
 export default function MainHeader() {
   return (
