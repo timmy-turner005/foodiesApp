@@ -3,7 +3,7 @@ const db = sql("meals.db");
 
 const dummyMeals = [
   {
-    title: "Juicy Cheese Burger",
+    title: "Juicy Cheese burger",
     slug: "juicy-cheese-burger",
     image: "/images/burger.jpg",
     summary:
